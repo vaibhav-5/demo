@@ -1,2 +1,3 @@
 this is sample
 this is added after
+this is 3rd line
